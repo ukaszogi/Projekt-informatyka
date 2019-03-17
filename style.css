@@ -1,0 +1,77 @@
+body
+{
+	background-color: /*#c4ffff*/#94E0E0;
+	color: #FD4444;
+}
+
+#box
+{
+	background-color: /*#94E0E0*/#c4ffff;
+	margin-left: auto;
+	margin-right: auto;
+	width: 94%;
+	padding: 2%;
+	margin-top: 10px
+}
+
+#logo
+{
+	text-align: right;
+	font-size: +30px;
+}
+
+#menu
+{
+	background-color: #02D9D9 ;
+	padding: 1%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+.opt
+{
+	background-color: #520202;
+	float: left;
+	margin-left: 1%;
+	margin-right: 1%;
+	width: 19%;
+	padding: 2%;
+	text-align: center;
+	font-size: 30px;
+}
+
+.opt:hover
+{
+	background-color: #691919;
+}
+
+#content
+{
+	background-color: #F6FFD1;
+	padding: 2%;
+	text-align: justify;
+}
+
+#footer
+{
+	background-color: #02D9D9;
+	padding: 1%;
+}
+
+.hr
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.ahtml5
+{
+	text-decoration: none;
+	color: #c4ffff;
+}
+
+/* 
+#510101
+#02D9D9 - jasny komplementarny
+#015151   - komplementarny  
+#F6FFD1 
