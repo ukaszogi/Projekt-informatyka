@@ -1,0 +1,16 @@
+Projekt strony internetowej:
+- Dopuszczający: tytuł strony, informacje o sobie,  zdjęcie (lub inna grafika), linki do stron będących źródłem informacji, treść dotycząca wybranego tematu.
+- Dostateczny: jak wyżej, ale kod bardziej złożony, bez błędów.
+- Dobry: jak wyżej, strona z użyciem stylów css.
+- Bardzo dobry: jak wyżej i stworzenie prostych podstron dołączonych do strony głównej.
+- Celujący: jak wyżej i utworzenie menu z wyświetlanymi podstronami dotyczącymi tematu.
+
+Termin: 03.04.2019 r.
+ 
+Tematy:
+- Powstania Śląskie.
+- 450. rocznica powstania Unii Lubelskiej.
+- Życie i twórczość Gustawa Herlinga-Grudzińskiego.
+- Życie i twórczość Stanisława Moniuszki.
+- Anna Walentynowicz.
+ 
