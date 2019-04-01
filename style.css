@@ -60,6 +60,13 @@ body
 	padding: 1%;
 }
 
+#bio
+{
+	float: left;
+	width: 50%;
+	margin-right: 15%;
+}
+
 .hr
 {
 	margin-top: 10px;
